@@ -1,2 +1,51 @@
-# Stanford_AI_Program
-Artificial Intelligence Professional Program by Stanford School of Engineering
+<div align="center">
+
+# Artificial Intelligence Program
+![Language](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+
+Completed During The Fall'22 & Spring'23 at Stanford School of Engineering.
+
+</div>
+
+## [XCS221](https://github.com/nataliakzm/School42_Piscine/tree/main/C00) - Artificial Intelligence Principles and Techniques
+
+**SKILLS GAINED:**
+
+- Search
+- Constraint satisfaction problems
+- Markov decision processes
+- Planning and game playing
+- Machine learning
+- Bayesian networks
+- Graphical models
+- Logic
+
+</div>
+
+## [XCS224N](https://github.com/nataliakzm/School42_Piscine/tree/main/C00) - Natural Language Processing with Deep Learning
+
+**SKILLS GAINED:**
+
+- Word vectors
+- Neural Networks
+- Dependency Parsing
+- RNNs and Language Models
+- Neural Machine Translation and Attention
+- Transformers and Pretraining
+- Using PyTorch from scratch
+
+</div>
+
+## [XCS224U](https://github.com/nataliakzm/School42_Piscine/tree/main/C00) - Natural Language Understanding
+
+**SKILLS GAINED:**
+
+- Vector-space models
+- Sentiment analysis
+- Contextual representations
+- Grounding
+- Natural language inference
+- Information retrieval
+- Relation extraction
+
+</div>
