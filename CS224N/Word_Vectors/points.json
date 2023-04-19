@@ -1,0 +1,22 @@
+{
+  "1-0-basic" : {"points":1, "question_id":"1a", "is_written":false, "is_coding":true, "is_online": false, "is_extra_credit":false},
+  "1-1-basic" : {"points":2, "question_id":"1b", "is_written":false, "is_coding":true, "is_online": false, "is_extra_credit":false},
+  "1-2-basic" : {"points":1, "question_id":"1c", "is_written":false, "is_coding":true, "is_online": false, "is_extra_credit":false},
+  
+  "1-3-hidden" : {"points":1, "question_id":"1a", "is_written":false, "is_coding":true, "is_online": false, "is_extra_credit":false},
+  "1-4-hidden" : {"points":3, "question_id":"1b", "is_written":false, "is_coding":true, "is_online": false, "is_extra_credit":false},
+  "1-5-hidden" : {"points":1, "question_id":"1c", "is_written":false, "is_coding":true, "is_online": false, "is_extra_credit":false},
+
+  "1quiz" : {"points":2, "question_id":"1quiz", "is_written":false, "is_coding":false, "is_online": true,"is_extra_credit":false, "no_label":false},
+  "2quiz" : {"points":2, "question_id":"2quiz", "is_written":false, "is_coding":false, "is_online": true,"is_extra_credit":false, "no_label":false},
+  "3quiz" : {"points":2, "question_id":"3quiz", "is_written":false, "is_coding":false, "is_online": true,"is_extra_credit":false, "no_label":false},
+  "4quiz" : {"points":2, "question_id":"4quiz", "is_written":false, "is_coding":false, "is_online": true,"is_extra_credit":false, "no_label":false},
+  "5quiz" : {"points":2, "question_id":"5quiz", "is_written":false, "is_coding":false, "is_online": true,"is_extra_credit":false, "no_label":false},
+  "6quiz" : {"points":3, "question_id":"6quiz", "is_written":false, "is_coding":false, "is_online": true,"is_extra_credit":false, "no_label":false},
+  "7quiz" : {"points":2, "question_id":"7quiz", "is_written":false, "is_coding":false, "is_online": true,"is_extra_credit":false, "no_label":false},
+
+  "4a" : {"points":1, "question_id":"4a", "is_written":true, "is_coding":false, "is_online": false, "is_extra_credit":true, "no_label":false},
+  "4b" : {"points":1, "question_id":"4b", "is_written":true, "is_coding":false, "is_online": false, "is_extra_credit":true, "no_label":false},
+  "4c" : {"points":1, "question_id":"4c", "is_written":true, "is_coding":false, "is_online": false, "is_extra_credit":true, "no_label":false},
+  "4d" : {"points":2, "question_id":"4d", "is_written":true, "is_coding":false, "is_online": false, "is_extra_credit":true, "no_label":false}
+}
