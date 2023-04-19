@@ -26,7 +26,7 @@ Completed During The Fall'22 & Spring'23 at Stanford School of Engineering.
 
 **SKILLS GAINED:** [<img align="right" height="170" src="https://user-images.githubusercontent.com/45148177/233116279-55ec9905-3b4b-4342-bee4-ed0afd1e1a91.svg" />](https://digitalcredential.stanford.edu/check/6352487C55D3602114A81691DAA3D51BF03BCF6F98F5D3DFE956B2460B03BC18Mk1TbHVudGlydG85cUJOWkw5ckFMVUdJbXZjWWRtdjVYODYvY0VPK3ZmdWw0OVdH)
 
-- Word vectors
+- Word vectors ([See Project 1](https://github.com/nataliakzm/Stanford_AI_Program/tree/main/CS224N/Word2Vec); [See Project 2](https://github.com/nataliakzm/Stanford_AI_Program/tree/main/CS224N/Word_Vectors))
 - Neural Networks
 - Dependency Parsing
 - RNNs and Language Models
