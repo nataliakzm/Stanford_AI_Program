@@ -7,7 +7,7 @@ Completed During The Fall'22 & Spring'23 at Stanford School of Engineering.
 
 </div>
 
-## [XCS221](https://github.com/nataliakzm/School42_Piscine/tree/main/C00) - Artificial Intelligence Principles and Techniques
+## [CS221](https://github.com/nataliakzm/School42_Piscine/tree/main/C00) - Artificial Intelligence Principles and Techniques
 
 **SKILLS GAINED:**
 
@@ -22,7 +22,7 @@ Completed During The Fall'22 & Spring'23 at Stanford School of Engineering.
 
 </div>
 
-## [XCS224N](https://github.com/nataliakzm/School42_Piscine/tree/main/C00) - Natural Language Processing with Deep Learning
+## [CS224N](https://github.com/nataliakzm/School42_Piscine/tree/main/C00) - Natural Language Processing with Deep Learning
 
 **SKILLS GAINED:**
 
@@ -36,7 +36,7 @@ Completed During The Fall'22 & Spring'23 at Stanford School of Engineering.
 
 </div>
 
-## [XCS224U](https://github.com/nataliakzm/School42_Piscine/tree/main/C00) - Natural Language Understanding
+## [CS224U](https://github.com/nataliakzm/School42_Piscine/tree/main/C00) - Natural Language Understanding
 
 **SKILLS GAINED:**
 
