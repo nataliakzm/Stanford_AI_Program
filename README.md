@@ -31,7 +31,7 @@ Completed During The Fall'22 & Spring'23 at Stanford School of Engineering.
 - Dependency Parsing
 - RNNs and Language Models
 - Neural Machine Translation and Attention
-- Transformers and Pretraining
+- Transformers and Pretraining ([See project](https://github.com/nataliakzm/Transformer_model))
 - Using PyTorch from scratch
 
 </div>
