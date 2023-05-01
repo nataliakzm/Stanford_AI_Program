@@ -29,7 +29,7 @@ Completed During The Fall'22 & Spring'23 at Stanford School of Engineering.
 - Word vectors ([See Project 1](https://github.com/nataliakzm/Stanford_AI_Program/tree/main/CS224N/Word2Vec); [See Project 2](https://github.com/nataliakzm/Stanford_AI_Program/tree/main/CS224N/Word_Vectors))
 - Neural Networks
 - Dependency Parsing ([See Project](https://github.com/nataliakzm/Stanford_AI_Program/tree/main/CS224N/Dependency_parser))
-- RNNs and Language Models
+- RNNs and Language Models ([See Project](https://github.com/nataliakzm/Stanford_AI_Program/tree/main/CS224N/Machine_translator))
 - Neural Machine Translation and Attention ([See Project](https://github.com/nataliakzm/Stanford_AI_Program/tree/main/CS224N/Machine_translator))
 - Transformers and Pretraining ([See Project](https://github.com/nataliakzm/Transformer_model))
 - Using PyTorch from scratch
