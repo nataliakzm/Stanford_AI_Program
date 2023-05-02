@@ -4,6 +4,8 @@
 
 What courses should you take in a given quarter? Answering this question requires balancing your interests, satisfying prerequisite chains, graduation requirements, availability of courses; this can be a complex tedious process.
 
+![image](https://user-images.githubusercontent.com/45148177/235787661-e6ee3497-52d1-46a7-8197-4b9a330acae5.png)
+
 In this project, we write a program that does automatic course scheduling for a student based on the preferences and constraints. The program will cast the course scheduling problem (CSP) as a constraint satisfaction problem (CSP) and then use backtracking search to solve that CSP to give a student an optimal course schedule.
 
 ## Code and Running the Tester
