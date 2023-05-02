@@ -12,13 +12,13 @@ Completed During The Fall'22 & Spring'23 at Stanford School of Engineering.
 **SKILLS GAINED:** [<img align="right" height="170" src="https://user-images.githubusercontent.com/45148177/233115582-05eb256f-a4a9-41ed-ab9c-2b2579606aec.svg" />](https://digitalcredential.stanford.edu/check/4918E6CDACC9A8CAB049C3B9E0BB4CBF0A9ABAC402DFC1CB1A6B9EDBEE71CC09eXFqOXhEMGdYd0dRQ0xvdlhra3lEc1RkUE8rQkMzQ21kdG5DUDJKWHhBeEtsL1dG)
 
 - Search ([See Project](https://github.com/nataliakzm/Stanford_AI_Program/tree/main/CS221/search-algorithm_text-reconstruction))
-- Constraint satisfaction problems
+- Constraint satisfaction problems ([See Project](https://github.com/nataliakzm/Stanford_AI_Program/tree/main/CS221/CSP_course-scheduling))
 - Markov decision processes ([See Project](https://github.com/nataliakzm/Stanford_AI_Program/tree/main/CS221/MDP-algorithm_peeking-blackjack))
-- Planning and game playing
+- Planning and game playing ([See Project](https://github.com/nataliakzm/Stanford_AI_Program/tree/main/CS221/adversarial-games_pacman))
 - Machine learning ([See Project](https://github.com/nataliakzm/Stanford_AI_Program/tree/main/CS221/ML_sentiment_analysis))
-- Bayesian networks
-- Graphical models
-- Logic ([See Project](https://github.com/nataliakzm/Stanford_AI_Program/tree/main/CS221/DL_pacman))
+- Bayesian networks ([See Project](https://github.com/nataliakzm/Stanford_AI_Program/tree/main/CS221/bayesian-networks_car-tracking))
+- Graphical models ([See Project](https://github.com/nataliakzm/Stanford_AI_Program/tree/main/CS221/adversarial-games_pacman))
+- Logic ([See Project](https://github.com/nataliakzm/Stanford_AI_Program/tree/main/CS221/DL_logic))
 
 </div>
 
