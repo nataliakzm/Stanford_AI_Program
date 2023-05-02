@@ -1,0 +1,8 @@
+name: MDP-algorithm_peeking-blackjack
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - notebook
+  - tk>=8.6.8
+  - matplotlib
