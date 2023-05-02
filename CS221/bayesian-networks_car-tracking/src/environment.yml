@@ -1,0 +1,8 @@
+name: bayesian-networks_car-tracking
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - notebook
+  - tk>=8.6.8
+  - matplotlib

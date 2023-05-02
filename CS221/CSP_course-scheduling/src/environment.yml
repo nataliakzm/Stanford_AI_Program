@@ -1,0 +1,8 @@
+name: CSP_course-scheduling
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - notebook
+  - tk>=8.6.8
+  - matplotlib
