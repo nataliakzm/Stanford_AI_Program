@@ -2,7 +2,7 @@
 
 <div>
 
-The search algorithms explored in the (previous project)[] work great when we know exactly the results of the actions. Unfortunately, the real world is not so predictable. One of the key aspects of an effective AI is the ability to reason in the face of uncertainty.
+The search algorithms explored in the [previous project](https://github.com/nataliakzm/Stanford_AI_Program/tree/main/CS221/search-algorithm_text-reconstruction) work great when we know exactly the results of the actions. Unfortunately, the real world is not so predictable. One of the key aspects of an effective AI is the ability to reason in the face of uncertainty.
 
 Markov decision processes (MDPs) can be used to formalize uncertain situations. In this project, we implement algorithms to find the optimal policy in these situations. We then formalize a modified version of Blackjack as an MDP, and apply the algorithm to find the optimal policy.
 
