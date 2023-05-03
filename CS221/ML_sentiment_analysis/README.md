@@ -2,10 +2,12 @@
 
 <div>
 
-In this project we work on a sentiment classification for the movies. We build a binary linear classidier that reads movie reviews, as you would see from the sites like Rotten Tomatoes, and predicts whether the result is positive or negative.
+In this project, we delve into the world of movie reviews, building a binary linear classifier to discern whether a given review carries a positive or negative sentiment. Our classifier is designed to analyze movie reviews similar to those found on sites like Rotten Tomatoes. The aim is to predict the sentiment of the review accurately, providing valuable insights into public opinion and feedback.
 
 ## Code and Running the Tester
 
 All code is entered into `src/model.py`. The unit tests in `src/tester.py` (the autograder) is used to verify a correct script. Run the tester locally using the following terminal command within the `src/` subdirectory:
 
-`$ python tester.py`
+```bash
+$ python tester.py
+```
