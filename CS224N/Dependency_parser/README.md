@@ -1,14 +1,6 @@
-# Dependency Parsing
+# Neural Transition-Based Dependency Parsing
 
 <div>
-
-## Code and Running the Tester
-
-All code is entered into `src/run.py`. The unit tests in `src/tester.py` (the autograder) is used to verify a correct script. Run the tester locally using the following terminal command within the `src/` subdirectory:
-
-`$ python tester.py`
-
-## Neural Transition-Based Dependency Parsing
 
 In this project, we build a neural dependency parser using PyTorch. We implement a NN based dependency parser, with the goal of maximizing performance on the UAS (Unlabeled Attachment Score) metric.
 
@@ -27,3 +19,11 @@ Initially, the stack only contains ROOT, the dependencies list is empty and the 
 - `RIGHT-ARC`: marks the first (most recently added) item on the stack as a dependent of the second item and removes the first item from the stack.
 
 On each step, your parser will decide among the three transitions using a neural network classifier.
+
+## Code and Running the Tester 🛠️
+
+All code is entered into `src/run.py`. The unit tests in `src/tester.py` (the autograder) is used to verify a correct script. Run the tester locally using the following terminal command within the `src/` subdirectory:
+
+```bash
+$ python tester.py
+```
