@@ -1,4 +1,4 @@
-# Neural Transition-Based Dependency Parsing
+# Neural Transition-Based Dependency Parser
 
 <div>
 
