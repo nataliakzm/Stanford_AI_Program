@@ -1,4 +1,4 @@
-# Pacman
+# Multi-agent Pac-Man 🕹️
 
 <div>
 
@@ -6,10 +6,12 @@ Pac-Man is a game where Pac-Man moves around in a maze and tries to eat as many 
 
 ![image](https://user-images.githubusercontent.com/45148177/235787448-d9058a22-ab25-4254-ad3c-9f4e0ce8403d.png)
 
-In this project, we design agents for the classic version of Pac-Man, including ghosts. Along the way, we implement both minimax and expectimax search.
+In this project, we design agents for the classic version of Pac-Man, including ghosts. Along the way, we implement both minimax and expectimax search strategies, improving the decision-making abilities of our agents.
 
-## Code and Running the Tester
+## Code and Running the Tester 🛠️
 
 All code is entered into `src/runmodel.py`. The unit tests in `src/tester.py` (the autograder) is used to verify a correct script. Run the tester locally using the following terminal command within the `src/` subdirectory:
 
-`$ python tester.py`
+```bash
+$ python tester.py
+```
