@@ -1,15 +1,15 @@
-# Course Scheduling
+# Scheduling 📝
 
 <div>
 
-What courses should you take in a given quarter? Answering this question requires balancing your interests, satisfying prerequisite chains, graduation requirements, availability of courses; this can be a complex tedious process.
+Deciding which courses to take each quarter can be a complex task. It's a balancing act that involves considering your interests, graduation requirements, prerequisite chains, and the availability of each course. To simplify this process, we've developed an automated course scheduling program that takes into consideration all these factors.
 
-![image](https://user-images.githubusercontent.com/45148177/235787661-e6ee3497-52d1-46a7-8197-4b9a330acae5.png)
+In this project, we cast the course scheduling problem as a constraint satisfaction problem (CSP). The program considers various constraints such as course prerequisites, time slots, and the student's preferences to generate an optimal course schedule. It utilizes backtracking search to solve this CSP, providing students with the most suitable course schedule for their needs.
 
-In this project, we write a program that does automatic course scheduling for a student based on the preferences and constraints. The program will cast the course scheduling problem (CSP) as a constraint satisfaction problem (CSP) and then use backtracking search to solve that CSP to give a student an optimal course schedule.
-
-## Code and Running the Tester
+## Code and Running the Tester 🛠️
 
 All code is entered into `src/model.py`. The unit tests in `src/tester.py` (the autograder) is used to verify a correct script. Run the tester locally using the following terminal command within the `src/` subdirectory:
 
-`$ python tester.py`
+```bash
+$ python tester.py
+```
