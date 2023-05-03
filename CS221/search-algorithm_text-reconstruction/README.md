@@ -12,7 +12,7 @@ On the other hand, **vowel insertion** becomes necessary in languages like Arabi
  
 These tasks are great examples of modeling, where we convert real-world tasks into state-space search problems. The overarching aim is to develop a system capable of reconstructing understandable and fluent sentences from incomplete textual data.
 
-## Code and Running the Tester
+## Code and Running the Tester 🛠️
 
 All code is entered into `src/model.py`. The unit tests in `src/tester.py` (the autograder) is used to verify a correct script. Run the tester locally using the following terminal command within the `src/` subdirectory:
 
