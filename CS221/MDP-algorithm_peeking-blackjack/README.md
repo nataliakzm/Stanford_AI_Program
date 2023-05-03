@@ -22,7 +22,7 @@ The game continues until one of the following conditions becomes true:
 - The player draws a card and _"goes bust"_, i.e., the sum of the face values of the cards in their hand exceeds the threshold set at the game's start. This results in a reward of 0;
 - The deck runs out of cards, treated as if the player quit and they earn a reward equal to the sum of the cards in their hand. _Note: if you take the last card and go bust, then the reward becomes 0 not the sum of card values.
 
-## Code and Running the Tester
+## Code and Running the Tester 🛠️
 
 All code is entered into `src/model.py`. The unit tests in `src/tester.py` (the autograder) is used to verify a correct script. Run the tester locally using the following terminal command within the `src/` subdirectory:
 
